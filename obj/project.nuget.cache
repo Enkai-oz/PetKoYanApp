@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5AJZ5lFeSjw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\PetKoYan\\PetKoYan\\PetKoYan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.12\\microsoft.aspnetcore.app.internal.assets.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
