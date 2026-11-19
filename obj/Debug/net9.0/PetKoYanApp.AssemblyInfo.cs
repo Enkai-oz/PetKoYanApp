@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PetKoYanApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebc43c9a3ccd375a3ce87731f1bed68f322de454")]
 [assembly: System.Reflection.AssemblyProductAttribute("PetKoYanApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PetKoYanApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

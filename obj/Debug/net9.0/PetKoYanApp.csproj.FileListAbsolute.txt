@@ -67,3 +67,4 @@ C:\Projects\PetKoYanApp\obj\Debug\net9.0\refint\PetKoYanApp.dll
 C:\Projects\PetKoYanApp\obj\Debug\net9.0\PetKoYanApp.pdb
 C:\Projects\PetKoYanApp\obj\Debug\net9.0\PetKoYanApp.genruntimeconfig.cache
 C:\Projects\PetKoYanApp\obj\Debug\net9.0\ref\PetKoYanApp.dll
+C:\Projects\PetKoYanApp\obj\Debug\net9.0\PetKoYanApp.sourcelink.json
