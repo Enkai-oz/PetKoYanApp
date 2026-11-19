@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PetKoYanApp/1.0.0": {
+        "runtime": {
+          "PetKoYanApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PetKoYanApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
